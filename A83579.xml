@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vote of both Houses of Parliament; upon the discovering of the late designe. Or, A narrative of a seditious and Iesuiticall practice upon the Parliament, and city of London, lately discovered; and some observations upon it by Mr. Soliciter. Die Sabbathi, 20 Ian. 1643. It is this day ordered by the Lords and Commons, that the 21. day of this instant January, being the Lords day, be kept as a day of publique thanksgiving, for the great deliverances which God hath given to the Parliament and city, from the severall plots and designes against them; and more particularly, in discovering the late designe: and that the vote of both Houses upon the late designe be printed, and read in the churches. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83579</idno>
+            <idno type="STC">Wing E2433</idno>
+            <idno type="STC">Thomason E29_19</idno>
+            <idno type="STC">ESTC R21172</idno>
+            <idno type="EEBO-CITATION">99870426</idno>
+            <idno type="PROQUEST">99870426</idno>
+            <idno type="VID">122819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 122819)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E29[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vote of both Houses of Parliament; upon the discovering of the late designe. Or, A narrative of a seditious and Iesuiticall practice upon the Parliament, and city of London, lately discovered; and some observations upon it by Mr. Soliciter. Die Sabbathi, 20 Ian. 1643. It is this day ordered by the Lords and Commons, that the 21. day of this instant January, being the Lords day, be kept as a day of publique thanksgiving, for the great deliverances which God hath given to the Parliament and city, from the severall plots and designes against them; and more particularly, in discovering the late designe: and that the vote of both Houses upon the late designe be printed, and read in the churches. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Northumberland, Algernon Percy, Earl of, 1602-1668.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Cole,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ianuary 22. [1643 i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The year "1643" on title page is in ms.</note>
+                  <note>Mr. Soliciter = Algernon Percy, Earl of Northumberland.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:122819:1" rendition="simple:additions"/>
+            <p>THE VOTE OF Both Houſes of Parliament; <hi>Vpon the Diſcovering of the late Deſigne.</hi>
+            </p>
+            <p>OR, A NARRATIVE OF A Seditious and Ieſuiticall Practice UPON <hi>The Parliament, and City of</hi> London, Lately diſcovered; And ſome Obſervations upon it by Mr. SOLICITER.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, 20 Jan. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>IT is this day Ordered by the Lords and Commons, That the 21. day of this inſtant January, being the Lords day, be kept as a day of Publique. Thankſgiving, for the great Deliverances which God hath given to the Parliament and City, from the ſeverall Plots and Deſignes againſt them; and more particularly, in diſco<g ref="char:EOLhyphen"/>vering the late Deſigne: And that the Vote of both Houſes upon the late Deſigne be printed, and read in the Churches.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Peter Cole.</hi> Ianuary 22. 1643</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb n="2" facs="tcp:122819:2"/>
+            <head>A Narrative of a Deſigne and Practiſe upon the City of <hi>London,</hi> lately diſcovered, and ſome Obſervation upon it by Mr. Soliciter.</head>
+            <p>FOraſmuch as it hath pleaſed <hi>Almighty God,</hi> out of his good eſſe within theſe few dayes to make a diſcovery to both the Houſes of an <hi>intended practiſe</hi> upon the <hi>Parliament</hi> and <hi>City,</hi> and ſo by conſequence upon the whole <hi>Kingdome.</hi> And in reſpect, that the <hi>Stage</hi> whereup<g ref="char:EOLhyphen"/>on this deſigne was to have been acted, were the Houſes of <hi>Parliament,</hi> and principally this <hi>City,</hi> and that ſome of the Actors in that <hi>Tragedy</hi> (for ſo I may call it) were mem<g ref="char:EOLhyphen"/>bers of this <hi>Citie:</hi> And likewiſe in reſpect of that neere Conjunction between the Houſes and you, That as <hi>Hypo<g ref="char:EOLhyphen"/>critus</hi> twins, they are like to live and dye together, There<g ref="char:EOLhyphen"/>fore they have commanded me and diverſe other Gentle<g ref="char:EOLhyphen"/>men of the Houſe of Commons to make known unto you, what this deſigne and practice was.</p>
+            <p>But before I tell you either what it was, or the dange<g ref="char:EOLhyphen"/>rous conſequence of it, I think it will not be amiſſe, that you ſhould heare it from one of themſelves who was an Actor and projector of it, that is, from the Lord <hi>Digby,</hi> who in a letter writ to Sir <hi>Baſil Brooke</hi> concerning this bu<g ref="char:EOLhyphen"/>ſineſſe doth profeſſe, <hi>That ſince theſe troubles did begin, There
+<pb n="3" facs="tcp:122819:2"/>was no deſign, nor no practiſe that was ſo likely to have taken, that was ſo likely to have produced that good effect</hi> (as they ſtile it) <hi>as this.</hi>
+            </p>
+            <p>You may very well remember the bloody Deſigne upon the <hi>Parliament</hi> and this <hi>City</hi> diſcovered about half a yeare ſince: he himſelfe ſaid, <hi>That this is above all that hi<g ref="char:EOLhyphen"/>therto hath been in agitation.</hi> This is their ſence upon it, that were the Projectors, and were to have been the Actors in it.</p>
+            <p>
+               <note place="margin">The Vote.</note>The thing in brief is thus: <hi>It was a ſeditious and Ieſuiticall Practice and Deſigne, under the specious pre<g ref="char:EOLhyphen"/>tence of Peace, to have rent the Parliament from the City, and the City from the Parliament; To have ſevered and disjoyned the Parliament within it ſelf, the City within it ſelf, Thereby to render up both Parliament and City to the Deſignes of the Enemy, which is not all; for the deſtruction and nulling of this preſent Parliament was intended; as likewiſe the ingaging our ſelves in a Treaty of Peace with<g ref="char:EOLhyphen"/>out the advice or conſent of our Brethren of</hi> Scotland, <hi>contrary to the late Articles ſolemnly agreed upon by both Kingdomes, to the perpetuall diſhonour of this Nation, by breach of our publique Faith, ingaged therein to that Nati<g ref="char:EOLhyphen"/>on, thereby not only utterly to fruſtrate our expectation of aſſiſtance from</hi> Scotland, <hi>but which is worſe (in all likeli<g ref="char:EOLhyphen"/>hood) to ingage the two Nations in broyles, if not in a war.</hi>
+            </p>
+            <p>This in briefe was the deſign, the particulars whereup<g ref="char:EOLhyphen"/>on it was framed, and the parties that were Actors in it, I ſhall likewiſe diſcover to you.</p>
+            <pb n="4" facs="tcp:122819:3"/>
+            <p>There was one <hi>Read,</hi> who called himſelfe <hi>Collonel Read,</hi> a man I ſuppoſe well known by name to this <hi>City:</hi> He had been heretofore many yeares ſince, a common Agent for the Papiſts, he was a principall perſon to whom the Pac<g ref="char:EOLhyphen"/>kets and addreſſes from <hi>Rome</hi> were made; it was he that did diſperſe them abroad in the Kingdome, with whom for the advancing of the Popiſh Cauſe, continued conſul<g ref="char:EOLhyphen"/>tations were held, who for advancing of the Catholique Cauſe (as they call it) went over into <hi>Ireland,</hi> there fo<g ref="char:EOLhyphen"/>mented the Rebellion, having been one of the Plotters of it, and was taken Priſoner there and ſent hither; This was the man, who was the principall contriver and Actor in the preſent buſineſſe.</p>
+            <p>Who together with Sir <hi>Baſil Brooke</hi> (a known Jeſuited Papiſt, a great Stickler in all the Popiſh tranſactions, and Treaſurer of the monies lately contributed by the Papiſts in the War againſt <hi>Scotland</hi>) both priſoners having laid the deſigne here, M<hi rend="sup">r</hi> 
+               <hi>Reads</hi> enlargement muſt be procured that he might act his part at <hi>Oxford;</hi> Sir <hi>Baſil Brooke</hi> muſt lye ledger here.</p>
+            <p>But becauſe ſo great a buſineſſe required more manna<g ref="char:EOLhyphen"/>gers, therfore one <hi>Violet</hi> a broken Goldſmith, and a Pro<g ref="char:EOLhyphen"/>teſtant in ſhew, muſt be brought in as a fit perſon to go between theſe Papiſts and the parties in the City; M<hi rend="sup">r</hi> 
+               <hi>Ryley</hi> by reaſon of his place of Scoutmaſter of the City, and his reputation amongſt the Commoners muſt be gained, who in theſe reſpects might be very uſefull, both in the way of Intelligence between <hi>Oxford</hi> and them, as likewiſe by promoting it with the Citizens; others in the City of principall note amongſt the people are dealt withall.</p>
+            <p>The firſt thing M<hi rend="sup">r</hi> 
+               <hi>Ryley</hi> muſt act, is the exchange of <hi>Read</hi> (a priſoner for the Treaſon and Rebellion in <hi>Ireland</hi>) ardor the name of Captain <hi>Read,</hi> taken priſoner at <hi>Bur<g ref="char:EOLhyphen"/>leigh</hi> Ho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in this Kingdome, for one of no greater ranke
+<pb n="5" facs="tcp:122819:3"/>than a Quarter-maſter. That being done a <hi>Character</hi> of <hi>Intelligence</hi> was agreed on between <hi>Read, Ryley,</hi> and <hi>Violet, Read</hi> to be knowne by the name of <hi>Collonel Lee, Ryley</hi> by the name of <hi>The Man in the Moone,</hi> and <hi>Violet</hi> by the name of <hi>James Morton.</hi>
+            </p>
+            <p>After <hi>Reads</hi> going to <hi>Oxford,</hi> the <hi>Queene,</hi> the <hi>Dutches</hi> of <hi>Buckingham,</hi> and the <hi>Lord Digby</hi> are conſulted with; Theſe are the Managers at <hi>Oxford</hi> with his <hi>Maieſties</hi> knowledge: <hi>Reade</hi> from <hi>Oxford,</hi> by Letters to <hi>Maſter Rily</hi> by the name of <hi>the Man in the Moone</hi> aſſures him, <hi>The buſineſſe goes on well at Oxford;</hi> Promiſes of reward are made to <hi>Ryley</hi> and <hi>Vio<g ref="char:EOLhyphen"/>let: Peace</hi> being the pretence; Therefore <hi>Propoſitions</hi> are fra<g ref="char:EOLhyphen"/>med and agreed on, ſix in number, by <hi>Read Sir Baſil Brooke, Ryley,</hi> and <hi>Violet,</hi> and ſeene by others, and afterwards ſent to <hi>Oxford.</hi> A Petiton for <hi>Peace</hi> being intended, the better to induce that, It was agreed that his <hi>Majeſtie</hi> muſt write a powerfull and promiſing letter to the <hi>Lord Major and Citi<g ref="char:EOLhyphen"/>zens,</hi> to be read at a <hi>Common Hall,</hi> and fit Inſtruments thought upon to be imployed to prepare my <hi>Lord Major</hi> before hand: The Letter was written and agreed upon here by <hi>Sir Baſil Brook, Maſter Ryley and Violet</hi> and ſent to <hi>Ox<g ref="char:EOLhyphen"/>ford, Violet</hi> a priſoner by <hi>Maſter Ryleys</hi> means was procu<g ref="char:EOLhyphen"/>red to be exchanged, that he might from <hi>Oxford</hi> bring the letter and adviſes, for the carrying on of the buſineſſe: <hi>At Oxford</hi> the buſineſſe was ſo diligently ſollicited by <hi>Read,</hi> that at <hi>Violets</hi> coming, all things were ready, and after three houres diſcourſe in his <hi>Majeſties</hi> preſence, with the <hi>Queene,</hi> the <hi>Dutches</hi> of <hi>Buckingham,</hi> &amp; the <hi>Lord Digby, Violet</hi> the ſame day, (being the Munday before the diſcovery) dispatched from <hi>Oxford</hi> with his <hi>Majeſties</hi> Letter, altered in nothing ſave the Title, and with another Letter from the <hi>Lord Digby</hi> to Sir <hi>Baſil Brooke,</hi> whereby the whole managing of the buſineſſe is intruſted to Sir <hi>Baſil Brook,</hi> and it is wholly left to his <hi>Wiſdom</hi> and <hi>Diſcretion,</hi> whither
+<pb n="6" facs="tcp:122819:4"/>the letter to the City ſhall be delivered or not.</p>
+            <p>
+               <hi>Violet</hi> brought both the Letters to Sir <hi>Baſil Brooke</hi> the Wedneſday after, and one <hi>Wood</hi> having formerly brought a Letter from <hi>Oxford</hi> to the City, the ſame in matter with this that <hi>Violet</hi> brought, which will be read unto you; Sir <hi>Baſil Brook</hi> delivered the Letter that came laſt from <hi>Oxford</hi> to <hi>Wood</hi> to be delivered to my <hi>Lord Major:</hi> the next day after which was Thurſday, and with direction, That it ſhould have been publiſhed on the Fryday; The delivery of it to my Lord Major, by the diſcovery of it the ſame day was prevented, and Sir <hi>Baſil Brooke, Ryley</hi> and <hi>Vi<g ref="char:EOLhyphen"/>olet</hi> that night were examined.</p>
+            <p>Before the Reading of the Examinations, Letters, and Propoſitions unto you at large, That the main deſigne to be made out by them, as they are conjoyned and have relation to the precedent narrative, may be the better un<g ref="char:EOLhyphen"/>derſtood, I ſhall in brief touch upon the matter of them, as likewiſe upon ſuch Concluſions as may neceſſarily be deduced from them.</p>
+            <p>As firſt, That no <hi>Peace</hi> was really intended, appears throughout the whole tranſaction: The propoſitions, which upon the Suppoſition that this is no Parliament, if a<g ref="char:EOLhyphen"/>nything, were to have been the ground-work &amp; foundation of it, which upon the reading you will finde ſo ſlight and frivolous, that no man can conceive that our <hi>Peace</hi> could have been built upon ſuch a foundation; Nothing ſo much as ſpoken of concerning <hi>Ireland,</hi> or the diſengaging of of our ſelves from the Articles of Agreement with our Brethren of Scotland; No proviſion for Reformation of <hi>Religion,</hi> or preſervation of that we have, or of our Lawes and Liberties: But in ſtead thereof there are <hi>quaedam iniqua,</hi> the <hi>Exciſe</hi> muſt be continued beyond the war, that out of it the King might have a benefit, and the debts of the Enemies to the Parliament repayed: and
+<pb n="7" facs="tcp:122819:4"/>the City immediatly to be Treated with.</p>
+            <p>That no <hi>Peace</hi> was intended, appeares further from the <hi>L: Digbies</hi> Letter (written within a day or two of that to the City) to the Ki: Agent at <hi>Bruſſels,</hi> who writes that <hi>the French Treaty was at an end, becauſe the Parliament muſt not be acknow<g ref="char:EOLhyphen"/>ledged to be a Parliament, that as the King for a long time had taken that for a ground, ſo he held the ſame reſolution ſtill, be<g ref="char:EOLhyphen"/>ing thereunto adviſed by all his Lords at</hi> Oxford; and by his reſolution of holding a Great Counſell in the nature of a Parliament at <hi>Oxford</hi> the 22. of this Moneth. And when his <hi>Majeſties</hi> Letter ſhall be read, you will finde no parti<g ref="char:EOLhyphen"/>culars whereupon a Peace ſhould have been built, ſave on<g ref="char:EOLhyphen"/>ly kinde words in generalls.</p>
+            <p>This further appeares from the perſons who were the firſt Deſigners and Contrivers, and were to have been the chief managers from firſt to laſt of the buſineſſe, <hi>Read and Sir Baſil Brook</hi> known Ieſuited Papiſts, and alwaies active in promoting Popiſh practizes; This <hi>Peace</hi> muſt have been ſuch as theſe perſons ſhall contrive; The prayer for our deliverance from the Gunpowder Treaſon agreed upon in Parliament, ſaith, That the Faith of ſuch Papiſts is faction, Their practiſes, the murdering of the ſoules and bodies of men; <hi>Read</hi> he hath been a Contriver and proſecuter of of the bloody Tragedies of the Proteſtants in Ireland; the other not without ſuſpicion to have had his hand in it; what is ſaid concerning the Queen in that particular, is ſet forth by the Declaration of both or one of the Houſes, and the Articles of her Impeachment, the Counteſſe of Buckingham (beſide that her husband hath appeared viſibly in that Rebellion) is not free of other cauſe of ſuſ<g ref="char:EOLhyphen"/>pition: Theſe as was ſaid before, aſſiſted with the <hi>Lord Dig<g ref="char:EOLhyphen"/>by,</hi> muſt be the Inſtruments of this <hi>Peace;</hi> which as it is ſet forth in his <hi>Majeſties</hi> Letter, muſt be ſuch as that whereby the true Proteſtant Religion, the Lawes and Liberties of
+<pb n="8" facs="tcp:122819:5"/>the Kingdome muſt be maintained.</p>
+            <p>Theſe Papiſts you ſee, who had done ſo good ſervice for the Proteſtant Religion in Ireland, muſt lay the foun<g ref="char:EOLhyphen"/>dation for the preſervation of it here.</p>
+            <p>
+               <hi>Sir Baſil Brook, and Read,</hi> well knew that the Pope and and Popery have been baniſhed this Kingdome by the Parliaments of England, and that the ſucceeding Parlia<g ref="char:EOLhyphen"/>ments to this time have alwaies endeavored the ſuppreſſion of popery, and therefore Degenerating from their Prede<g ref="char:EOLhyphen"/>ceſſors, who in the Gun-powder Treaſon endeavoured for that cauſe to have blown up the parliament, They muſt now endeavour the Preſervation of the Parliament, and the Lawes and the Liberties of the Kingdome.</p>
+            <p>The things which from this briefe Narrative, the rea<g ref="char:EOLhyphen"/>ding of the Examinations, Propoſitions, and Letters, will appeare to have been deſigned, are theſe;</p>
+            <p>Firſt the dividing the Parliament from the City, and the Parliament and the City within themſelves.</p>
+            <p>Firſt in reſpect that this Treaty of <hi>Peace</hi> was to have been immediately between the King and the City, and that whereupon the <hi>Peace</hi> of the whole Kingdome ſhould have been ſetled, as appeares by his Majeſties Letter, what wide rents ſuch a Treaty muſt have produced between the City and Parliament is obvious. Again, for the proſecu<g ref="char:EOLhyphen"/>tion of the Treaty when entertained by the City; ſafe conducts were to have been granted, not only to thoſe of the City, but to ſuch of the Members of either Houſe, as would have repaired to <hi>Oxford</hi> for that purpoſe; Every man ſees by this, what diviſion and confuſion would have followed both in City and Parliament. The Projectors were well acquainted with <hi>Machivels</hi> maxime, <hi>divide &amp; Impera.</hi>
+            </p>
+            <p>The ſecond was no leſſe then the utter deſtruction, the nulling and making voyd of this preſent Parliament, as
+<pb n="9" facs="tcp:122819:5"/>will appeare by the Lord <hi>Digbyes</hi> letter to <hi>De vic,</hi> and the ſummoning of the great Councell or Parliament at <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> compared with the third of theſe Propoſitions. By the letter to <hi>De vic</hi> this Parliament, as the reſolution then was at <hi>Oxford,</hi> muſt not be acknowledged; and by this third Propoſition for that very cauſe, the Parliament muſt be waved, and the Treaty muſt be immediatly between the King and City. The conſequence whereof had been no leſſe then the rendring of the Kingdome for ever unca<g ref="char:EOLhyphen"/>pable of having any more Parliaments; This Parliament, It was called and continued according to the knowne Lawes and Uſages of the Kingdome, was afterwards by an Act of Parliament, aſſented unto by his Majeſtie, ſo acknowledged, and made indiſſolvable without its own conſent; (a greater Teſtimony of the validity of this Par<g ref="char:EOLhyphen"/>liament, then I think was ever given to any:) If neither the Common Lawes and uſages of this Kingdome, nor the concurrent Authority of an Act Parliament be able to ſupport this Parliament, when his Majeſtie ſhall declare the contrary, I ſhall without more words leave to your judgements, whether this doctrin doth not at once blow up the fundamentalls of all Parliaments, Lawes of the Kingdome, Libertie of the Subjects, and of the whole pollicie and Government of this Kingdome, which being deſtroyed, what ſecurity you could have deviſed for the maintaining of the Religon, Lawes, and Liberties of the Kingdome, as is promiſed you in his Majeſties letter, I know not.</p>
+            <p n="3">3. The third was not onely the preventing of the aſſi<g ref="char:EOLhyphen"/>ſtance of our Brethren in <hi>Scotland;</hi> But that which is worſe, and muſt have neceſſarily followed thereupon, the embroiling of both the Nations in diviſions, in all like<g ref="char:EOLhyphen"/>lihood fat all unto both; this will appeare by putting to<g ref="char:EOLhyphen"/>gether what hath beene done by the <hi>Parliament,</hi> thoſe at
+<pb n="10" facs="tcp:122819:6"/>
+               <hi>Oxford,</hi> and the tranſactions in this deſigne.</p>
+            <p>The Parliament long ſince have invited that Nation to our aſſiſtance in this common cauſe upon weighty con<g ref="char:EOLhyphen"/>ſiderations.</p>
+            <p>As firſt, conceiving that by this meanes through Gods bleſſing, this great cauſe which concernes our Religion, Lawes, Liberties, and all we have, would be aſſured, and the event of the War, otherwiſe doubtfull, made more cer<g ref="char:EOLhyphen"/>taine.</p>
+            <p n="2">2. Secondly, that by their aſſiſtance the war might be the ſooner ended, and ſo by conſequence the calami<g ref="char:EOLhyphen"/>ties which of neceſſity muſt accompany it, their aſſiſtance adding ſo conſiderable a ſtrength to our party, beſides the reputation which the concurrence of a whole Nation with us, will adde to the juſtneſſe of the cauſe.</p>
+            <p n="3">3. And thirdly, that as in likelihood by their joynt concurrence, a better Peace for preſent might be procu<g ref="char:EOLhyphen"/>red, ſo in all probability what ſhall be agreed upon would be the more laſting and durable, both Nations being equally intereſted in what ſhould be agreed upon.</p>
+            <p>Beſides the Covenant maturely ſworn and agreed upon by both Nations for the maintenance and defence of Re<g ref="char:EOLhyphen"/>ligion, and of the mutuall Lawes and Liberties of each Kingdome, a ſolemne league and Treaty hath likewiſe beene mutually agreed upon between the Parliament here and that Kingdome, concerning the manner of their aſſi<g ref="char:EOLhyphen"/>ſtance (and great ſums of money have been thereupon ſent unto them.) In which Treaty one Article is, <hi>That nei<g ref="char:EOLhyphen"/>ther Nation ſhall entertaine any Treaty of Peace, without the ad<g ref="char:EOLhyphen"/>vice and conſent of the other.</hi> This in briefe containes the tranſactions between that Nation and the Parliament. At <hi>Oxford</hi> by papers in the forme of Proclamations, they have ſtiled this aſſiſtance, an Invaſion of the Kingdome, and one end of the calling of that great Councell or Par<g ref="char:EOLhyphen"/>liament
+<pb n="11" facs="tcp:122819:6"/>is for oppoſing of the ſame.</p>
+            <p>In the carriage of the preſent deſigne, by one of <hi>Reads</hi> letters to <hi>Pyley</hi> he ſaith, <hi>That a dore is open by the comming in of the Scots for the deſtruction of this Kingdome; That there<g ref="char:EOLhyphen"/>fore this Peace muſt preſently be concluded. That all is loſt un<g ref="char:EOLhyphen"/>leſſe it be done ſpeedily.</hi> The maine intent of the letter is for the ſpeeding of it to that end. The Lord <hi>Digbyes</hi> letter to Sir <hi>Baſil Brooke,</hi> referring the delivering of his Maje<g ref="char:EOLhyphen"/>ſties letter to my Lord Mayor to his diſcretion, he forth<g ref="char:EOLhyphen"/>with delivers it to <hi>Wood,</hi> to be the next day delivered to my Lord Mayor, and the next day after the delivery to be by him publiſhed; He ſaw it neceſſary, and ſo reſolved at <hi>Oxford,</hi> That we muſt ſpeedily breake with the Scots.</p>
+            <p>Their aſſiſtance, how neceſſary, and by Gods bleſſing how beneficiall it is like to be unto us, I think you ſee, but this muſt be prevented; The honour and publike faith of Nations how Sacred it is, and from the rules of Reli<g ref="char:EOLhyphen"/>gion and common policie, how tenderly to be preſerved each man knowes, But this deſigne muſt violate and ſtaine our honour in the higheſt: For contrary to the Article be<g ref="char:EOLhyphen"/>fore mentioned, this Treaty muſt preſently be ſet on foot without them; ſuch violations are alwayes deeply reſented by the parties injured: how dangerous therefore the con<g ref="char:EOLhyphen"/>ſequence muſt needs have beene, he that runnes may reade.</p>
+            <p>This was the Deſigne: It was too Ugly, It was too Black, Bare fac'd, to have been preſented to your view, and therefore it muſt be maſqu't; This hook muſt be bai<g ref="char:EOLhyphen"/>ted with the ſweet word <hi>Peace;</hi> It hath been long ſince ob<g ref="char:EOLhyphen"/>ſerved from the Eccleſiaſticall proceedings of the Romiſh Church, That <hi>in nomine Domini Incipit omne malum,</hi> The Holy Name of God muſt bear out all their Spirituall wickedneſſes: The end of all Civill Policie is the pre<g ref="char:EOLhyphen"/>ſerving of juſt and Honourable <hi>Peace;</hi> and therefore
+<pb n="12" facs="tcp:122819:7"/>theſe men when Diviſions, Violence, and what is moſt contrary to <hi>Peace</hi> is intended, yet for the compaſſaing of theſe ends, <hi>Peace</hi> muſt be pretended. So was it by many of them about this time twelve-moneth Deſigned in their Pe<g ref="char:EOLhyphen"/>tition to the Parliament for a <hi>Peace,</hi> and ſo was it in the bloodie plot upon the Citie, and diverſe Members of both Houſes diſcovered the laſt Summer. For upon the exami<g ref="char:EOLhyphen"/>nations of diverſe of them, It appeared that the ground of that plot was laid in the firſt Petition, and that the ſecond was to have been guilded over with a Petition for <hi>Peace.</hi>
+            </p>
+            <p>Theſe men, (I ſpeak of theſe deſignes) they cry <hi>Peace, Peace,</hi> that deſtruction might have come upon you as an armed man: You ſhal now hear the examinations and other things read at large unto you.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
